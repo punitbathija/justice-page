@@ -1,0 +1,73 @@
+*{
+    padding: 5px;
+}
+body{
+    font-family: Arial;
+    font-size: larger;
+    background-color: #2B2922;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo{
+    padding: 20px;
+  }
+  
+  .list{
+    padding: 8px;
+    list-style-type: none;
+    display: flex;
+    gap: 45px;
+    font-size: large;
+    color: rgba(255, 255, 255, 0.672)
+  }
+
+  .list li:hover{
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+
+  .button{
+    background-color:#2B2922;
+    border: 2px solid rgb(175, 175, 49);
+    border-radius: 15px;
+    width: 160px;
+    padding: 8%;
+    font-size: large;
+    color: rgb(175, 175, 49);
+    margin: 12px;
+    position: relative;
+    left: -50px;
+}
+
+.hero{
+    position: relative;
+    bottom: 60px;
+    display: flex;
+}
+
+.hero-heading{
+    
+    font-size: 80px;
+    color: #FFFFFF;
+
+}
+
+.hero-paragraph{
+
+    color: rgba(255, 255, 255, 0.672);
+    font-size: 33px;    
+    position: relative;
+    top: 130px;
+    left: -15px;
+}
+
+.bottom{
+    position: relative;
+    top: -80px;
+    background-size: cover;
+}
