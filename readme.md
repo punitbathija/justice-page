@@ -15,7 +15,7 @@
 ## Learnings
 
 - I used `flex` to achieve the `nav-bar`
-- Time Consumed to make this page 100 Minutes
+- Time Consumed to make this page **1 Hour 20 Minutes**
 - Preview
   ![preview](./thumbnail.png)
 
